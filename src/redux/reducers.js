@@ -9,6 +9,4 @@ import userInfo from "./reducers/userInfo";
 //     }
 // }
 
-export default combineReducers({
-    counter,userInfo
-})
+export default combineReducers({counter,userInfo})
